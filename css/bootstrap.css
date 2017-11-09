@@ -2548,7 +2548,7 @@ output {
 }
 .form-control {
   display: block;
-  width: 100%;
+  width: 60
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
@@ -4897,7 +4897,7 @@ a.label:focus {
 .label-warning {
   background-color: #f0ad4e;
 }
-.label-\\\\\\\\\\\\\\\\\\\\ref]:hover,
+.label-warning[href]:hover,
 .label-warning[href]:focus {
   background-color: #ec971f;
 }
@@ -4932,7 +4932,7 @@ a.label:focus {
 .btn-xs .badge,
 .btn-group-xs > .btn .badge {
   top: 0;
-  pa\\\ding: 1px 5px;
+  padding: 1px 5px;
 }
 a.badge:hover,
 a.badge:focus {
@@ -5002,12 +5002,12 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  /*background-color: #fff;
+  background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: border .2s ease-in-out;
        -o-transition: border .2s ease-in-out;
-          transition: border .2s ease-in-out;*/
+          transition: border .2s ease-in-out;
 }
 .thumbnail > img,
 .thumbnail a > img {
@@ -5203,8 +5203,8 @@ a.thumbnail.active {
   overflow: hidden;
   zoom: 1;
 }
-.media-body {
-  width: 10000px;
+/*.media-body {
+  width: 10000px;*/
 }
 .media-object {
   display: block;
