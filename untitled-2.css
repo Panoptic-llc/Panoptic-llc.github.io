@@ -33,9 +33,12 @@ body{
 }
 
 li{
-	font-family: "ff-enzo-web", sans-serif;
-	color: #fff;
+	font-family: "Helvetica, Arial, sans-serif;
 }
+.wf-ffenzoweb-n4-active li{
+	font-family: "ff-enzo-web", Helvetica, Ariel, sans-serif;
+	color: #fff;
+}	
 
 .OHM{
 	font-family: "acier-bat-noir",sans-serif;
