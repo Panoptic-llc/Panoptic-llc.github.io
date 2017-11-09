@@ -5,7 +5,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -2548,7 +2548,7 @@ output {
 }
 .form-control {
   display: block;
-  width: 60
+  width: 100%;
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
@@ -4493,7 +4493,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
+  background-color: #fff;
+  color: #fff;
+  /*border-color: #e7e7e7;*/
 }
 .navbar-default .navbar-brand {
   color: #fff;
@@ -5203,8 +5205,8 @@ a.thumbnail.active {
   overflow: hidden;
   zoom: 1;
 }
-/*.media-body {
-  width: 10000px;*/
+.media-body {
+  width: 10000px;
 }
 .media-object {
   display: block;
