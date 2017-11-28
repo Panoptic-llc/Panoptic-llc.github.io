@@ -73,7 +73,6 @@ li{
 
 p{
 	font-family: "ff-enzo-web", sans-serif;
-	font-weight: bold;
 }
 
 .text_header{
@@ -100,6 +99,7 @@ h3{
 	font-family: "abolition",sans-serif; 
 	font-size: 40px;
 	text-align: center;
+	color: darkmagenta;
 }
 .img-container {
     position: relative;
@@ -156,12 +156,51 @@ h3{
   font-size: 16px;
   padding: 16px 32px;
 }
+/* This Day in History*/
+#mandela{
+    display: block;
+    max-width: 75%;
+    float: right;
+    position: relative;
+    height: auto;
+}
 
 h5{
-	font-family: "abolition",sans-serif; 
+	font-family: "acier-bat-noir",sans-serif;
+	font-size: 50px;
 	font-weight: bold;
+	margin-top: 200px;
+	color: chartreuse;
 }
+
+h6.quote{
+    position: absolute;
+    font-size: x-large;
+    color: seashell;
+}
+
+p.blurb{
+    position: absolute;
+    width: 50%;
+    font-size: large;
+    color: floralwhite;
+}
+
 /*Footer*/
+h4.footer-title{
+	font-family: "acier-bat-noir",sans-serif;
+        font-size: 18px;
+    	color: white;
+    	margin-top: 200px;
+}
+
+p.copyright{
+	color: gold;
+}
+
+a{
+	color: #6dd96d;
+}
 .button{
 	width: 150px;
 	margin-top: 40px;
