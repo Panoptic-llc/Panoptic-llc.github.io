@@ -29,6 +29,10 @@ h1 {
 	right: 16px;
 }
 
+p{
+	font-family: "ff-enzo-web", sans-serif;
+}
+
 h3{
 	font-family: "abolition",sans-serif;
 }
@@ -117,6 +121,22 @@ h5{
 	padding-left: 65px;
 }
 /*Footer*/
+
+h4.footer-title{
+	font-family: "acier-bat-noir",sans-serif;
+        font-size: 18px;
+    	color: white;
+    	margin-top: 200px;
+}
+
+p.copyright{
+	color: gold;
+}
+
+a{
+	color: #6dd96d;
+}
+
 .footer{
 	margin-top: 40px;
 	padding-top: 50px;
