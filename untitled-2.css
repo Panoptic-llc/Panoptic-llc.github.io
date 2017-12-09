@@ -159,7 +159,7 @@ h3{
 /* This Day in History*/
 #mandela{
     display: block;
-    max-width: 75%;
+    max-width: 90%;
     float: right;
     position: relative;
     height: auto;
@@ -177,6 +177,7 @@ h6.quote{
     position: absolute;
     font-size: x-large;
     color: seashell;
+    margin-top: -20px;
 }
 
 p.blurb{
@@ -184,6 +185,7 @@ p.blurb{
     width: 50%;
     font-size: large;
     color: floralwhite;
+    margin-top:60px;
 }
 
 /*Footer*/
