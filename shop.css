@@ -39,6 +39,9 @@ li{
 	background-color: transparent;
 }
 
+p{
+	font-family: "ff-enzo-web", sans-serif";
+}
 
 h1{
 	font-family: "acier-bat-noir",sans-serif;
@@ -99,6 +102,21 @@ h5{
 	font-weight: bold;
 }
 /*Footer*/
+h4.footer-title{
+	font-family: "acier-bat-noir",sans-serif;
+        font-size: 18px;
+    	color: white;
+    	margin-top: 200px;
+}
+
+p.copyright{
+	color: gold;
+}
+
+a{
+	color: #6dd96d;
+}
+
 #button{
 	width: 350px;
 	margin-top: 40px;
@@ -119,4 +137,5 @@ h5{
 	color: #000;
 	transition: all 0.3s linear;
 }
+
 
