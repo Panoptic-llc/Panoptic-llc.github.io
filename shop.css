@@ -96,6 +96,11 @@ h1{
   font-size: 16px;
   padding: 16px 32px;
 }
+p.price{
+    font-family: "ff-enzo-web", sans-serif;
+    font-size: -webkit-xxx-large;
+    text-align: -webkit-center;
+}
 
 h5{
 	font-family: 
@@ -105,7 +110,7 @@ h5{
 h4.footer-title{
 	font-family: "acier-bat-noir",sans-serif;
         font-size: 18px;
-    	color: white;
+    	color: black;
     	margin-top: 200px;
 }
 
